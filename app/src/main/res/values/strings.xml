@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">News App</string>
+    <string name="title_activity_main_page">main_page</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title">Title</string>
+    <string name="section">section</string>
+    <string name="publisher_details">publisher details</string>
 </resources>
